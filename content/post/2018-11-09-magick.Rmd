@@ -1,0 +1,16 @@
+---
+title: magick
+author: sajayan
+date: '2018-11-09'
+slug: magick
+categories:
+  - R
+tags: []
+---
+```{r}
+library(magick)
+library(magrittr)
+image_read("https://jeroen.github.io/images/birds.jpg")
+image_read("https://jeroen.github.io/images/birds.jpg")%>%image_crop('1200x300+100+1700')%>%image_ocr()%>%cat()
+```
+

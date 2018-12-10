@@ -1,0 +1,23 @@
+---
+title: magick
+author: sajayan
+date: '2018-11-09'
+slug: magick
+categories:
+  - R
+tags: []
+---
+
+
+
+<pre class="r"><code>library(magick)</code></pre>
+<pre><code>## Linking to ImageMagick 6.9.9.14
+## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp
+## Disabled features: fontconfig, x11</code></pre>
+<pre class="r"><code>library(magrittr)
+image_read(&quot;https://jeroen.github.io/images/birds.jpg&quot;)</code></pre>
+<p><img src="/post/2018-11-09-magick_files/figure-html/unnamed-chunk-1-1.png" /><!-- --></p>
+<pre class="r"><code>image_read(&quot;https://jeroen.github.io/images/birds.jpg&quot;)%&gt;%image_crop(&#39;1200x300+100+1700&#39;)%&gt;%image_ocr()%&gt;%cat()</code></pre>
+<pre><code>## H Grenveld. del Watherby &amp; 0°
+## CLIMACTERIS PICUMNUS.
+## (BROWN TREE CREEPER).</code></pre>
