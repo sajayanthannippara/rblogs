@@ -1,5 +1,5 @@
 ---
-title: PG Courses/Colleges
+title: PG Courses/Colleges-kERALA
 author: ''
 date: '2018-12-14'
 slug: pg-courses-colleges
@@ -30,6 +30,13 @@ tags: []
 
 
 * [St. Joseph's College, Devagiri(Autonomous)](http://www.sjc.ac.in/courses.html#)
+
+
+**M.Sc Agricultural Statistics**
+
+* [College of Agriculture, Vellayani](http://www.kau.in/institution/college-agriculture-vellayani)
+
+* [College of Horticulture, Vellanikkara](http://www.kau.in/institution/college-horticulture-vellanikkara)
 
 
 
