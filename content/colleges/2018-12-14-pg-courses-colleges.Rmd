@@ -1,5 +1,5 @@
 ---
-title: PG Courses/Colleges-kERALA
+title: PG Courses/Colleges-KERALA
 author: ''
 date: '2018-12-14'
 slug: pg-courses-colleges
@@ -32,7 +32,7 @@ tags: []
 * [St. Joseph's College, Devagiri(Autonomous)](http://www.sjc.ac.in/courses.html#)
 
 
-**M.Sc Agricultural Statistics**
+**M.Sc Agricultural Statistics-3 yrs**
 You must have a bachelor degree in Agriculture or equivalent recognized by KAU with an OGPA of 6.50/10.00 for General Category candidates and 6.00/10.00 for SC/ST. If you have a bachelor degree in B. Sc. Mathematics/Statistics with 50% marks from a recognised University can also apply
 
 * [College of Agriculture, Vellayani](http://www.kau.in/institution/college-agriculture-vellayani)
